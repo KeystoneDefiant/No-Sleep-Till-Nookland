@@ -10,8 +10,6 @@ No warranty is implied or assumed. I am not liable for missing bells, items, bro
 
 #### How to use
 
-Walk up to Pondo until the **(A) Talk** option is available and plug in the controller. It will automatically sync with the console, initiate the bowling game with Pondo, throw a perfect strike, and end the bowling game. It will play the bowling game in a loop.
-
 This repository has been tested using a UNO r3.
 
 LUFA has been included as a git submodule, check it out with recursive.
