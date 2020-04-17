@@ -54,9 +54,9 @@ static const command step[] = {
 	{ NOTHING,  250 },
 
 	// JUS WIGGLE WIT IT
-	{ L,      5 }, // Start
+	{ DOWN,     5 },
 	{ NOTHING, 3000 },
-	{ B,     5 },
+	{ DOWN,     5 },
 	{ NOTHING, 3000 },
 };
 
